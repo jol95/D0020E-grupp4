@@ -1,4 +1,4 @@
-<h1>1. Introduction </h1>
+<h1>1. Introduction </h1>.
 <h2>1.1. Background</h2>
 <!-- needs -->
 <p>
